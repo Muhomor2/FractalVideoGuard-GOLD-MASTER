@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Chechelnitsky"
+    given-names: "Igor"
+    orcid: "https://orcid.org/0009-0007-4607-1946"
+    affiliation: "Independent Researcher"
+title: "FractalVideoGuard: Deepfake Detection via Fractal-Informational Ontology"
+version: 0.5.2
+date-released: 2026-01-18
+url: "https://github.com/yourusername/fractalvideoguard"
+repository-code: "https://github.com/yourusername/fractalvideoguard"
+license: MIT
+keywords:
+  - deepfake detection
+  - fractal analysis
+  - long-range dependence
+  - DFA
+  - Hurst exponent
+  - QO3 theory
+  - Fractal-Informational Ontology
+abstract: |
+  Production-ready deepfake video detection system based on QO3/FIO Universal 
+  Attractor Theory. Analyzes long-range dependence (LRD) via Detrended Fluctuation 
+  Analysis (DFA) and fractal dimension to distinguish natural videos (H≈0.70, D≈1.35) 
+  from GAN-generated deepfakes (H≈0.55, D≈1.15). Features: hang-proof processing, 
+  6x memory efficiency, 96.6% test coverage, cross-platform support.
