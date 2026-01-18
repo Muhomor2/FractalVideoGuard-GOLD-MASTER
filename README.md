@@ -56,8 +56,8 @@ These deviations from natural attractors serve as robust deepfake indicators. Se
 
 ```bash
 # Clone repository
-git clone https://github.com/muhomor2/fractalvideoguard.git
-cd fractalvideoguard
+git clone https://github.com/muhomor2/FractalVideoGuard-GOLD-MASTER.git
+cd FractalVideoGuard-GOLD-MASTER
 
 # Install dependencies
 pip install -r requirements.txt
