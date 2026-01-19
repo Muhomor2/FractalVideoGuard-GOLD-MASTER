@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18291048.svg)](https://doi.org/10.5281/zenodo.18291048)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0007--4607--1946-green.svg)](https://orcid.org/0009-0007-4607-1946)
 
 **Production-ready deepfake video detection using Fractal-Informational Ontology (FIO) and Long-Range Dependence (LRD) analysis.**
